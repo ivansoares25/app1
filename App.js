@@ -8,7 +8,7 @@ import {
 const App = () => {
   return (
     <View style={styles.vwMain}>
-      <Text style={styles.sectionTitle}>Step One</Text>
+      <Text style={styles.sectionTitle}>Projeto app1</Text>
     </View>
   );
 };
